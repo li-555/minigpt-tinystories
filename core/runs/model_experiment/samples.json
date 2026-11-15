@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "9050a44ec6f575785770844a2a2034562dd7419167285fc6e040b7de179f8711",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and asked her mom if she could do it.\nThe family smiled and said \"Yes, we can try. Let's go to a new nest.\"\nThe little girl smiled and they followed the bird's nest. It was very pretty. They took care of the bird's beak and said, \"Oh, we can find your home.\"\nThe girl was so happy, she thanked the little girl. She thanked her help and went home. The girl and her mom became good friends and played together every day.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and asked her mom if she could do it.\nThe family smiled and said \"Yes, we can try. Let's go to a new nest.\"\nThe little girl smiled and they followed the bird's nest. It was very pretty. They took care of the bird's beak and said, \"Oh, we can find your home.\"\nThe girl was so happy, she thanked the little girl. She thanked her help and went home. The girl and her mom became good friends and played together every day."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " So, he had an idea. \"I can help you move my way to use my own!\" Tom and Tom agreed, and they went to the park together.\nAs they looked up, Tom saw a big, fluffy bunny. The bunny looked at Tom and said, \"You can't fly, Tom! I can't fly. I can't fly high and I was very high.\" Tom and Tom became good friends. They played together and had lots of fun.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. So, he had an idea. \"I can help you move my way to use my own!\" Tom and Tom agreed, and they went to the park together.\nAs they looked up, Tom saw a big, fluffy bunny. The bunny looked at Tom and said, \"You can't fly, Tom! I can't fly. I can't fly high and I was very high.\" Tom and Tom became good friends. They played together and had lots of fun."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " the red ball. She was so happy to play with the red ball.\nLily showed the green ball to her friend, Tom. \"Look, I found a ball, Sue!\" said Lily. \"My ball is so pretty!\" Tom smiled and said, \"Yes, I can play with the ball.\" They played and played together all day.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw the red ball. She was so happy to play with the red ball.\nLily showed the green ball to her friend, Tom. \"Look, I found a ball, Sue!\" said Lily. \"My ball is so pretty!\" Tom smiled and said, \"Yes, I can play with the ball.\" They played and played together all day."
+    }
+  ]
+}

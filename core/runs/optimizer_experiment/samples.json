@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "3dc429c0fe8d1846bb280e962767d2973e31a9bda0a357d4a9a04378ba4fb6b9",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and liked to play with it.\nOne day, she decided to go to the beach. She saw her friend, Max, playing. \"I want to play with you, Lily,\" said Lily. Max smiled and said, \"Yes, we can share a game. We're going to the beach.\u201d\nLily and Max played in the water. They had so much fun. They were very happy. They played together until it was time to go home.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and liked to play with it.\nOne day, she decided to go to the beach. She saw her friend, Max, playing. \"I want to play with you, Lily,\" said Lily. Max smiled and said, \"Yes, we can share a game. We're going to the beach.\u201d\nLily and Max played in the water. They had so much fun. They were very happy. They played together until it was time to go home."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He held his hand and ran away. Tom was sad.\nThen, Tom walked up with a big tree. He saw a squirrel and ran to Tom. Tom was scared, but he did not know that. He wished he had an idea.\nTom's mom saw Max trying to help him find the squirrel. She said, \"Tom, you must be your friend or do that it is not for you. It is not good.\" Tom was scared and flew away.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He held his hand and ran away. Tom was sad.\nThen, Tom walked up with a big tree. He saw a squirrel and ran to Tom. Tom was scared, but he did not know that. He wished he had an idea.\nTom's mom saw Max trying to help him find the squirrel. She said, \"Tom, you must be your friend or do that it is not for you. It is not good.\" Tom was scared and flew away."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " the ball and wanted to play with it. The red ball was very fun and had lots of fun.\nA small bird saw the ball and wanted to play with it too. The bird asked the bird, \"Can I play with you?\" The bird said, \"I can play with it!\" The red ball wanted to play with the ball.\nLily and the bird ate the ball together. They played with the ball and had fun. The big ball was not lonely anymore. They played in the park, and Lily was happy to have his new friend.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw the ball and wanted to play with it. The red ball was very fun and had lots of fun.\nA small bird saw the ball and wanted to play with it too. The bird asked the bird, \"Can I play with you?\" The bird said, \"I can play with it!\" The red ball wanted to play with the ball.\nLily and the bird ate the ball together. They played with the ball and had fun. The big ball was not lonely anymore. They played in the park, and Lily was happy to have his new friend."
+    }
+  ]
+}

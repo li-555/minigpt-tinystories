@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "bf5ba30016733d927ce46e4e9645aa9594c5c6677d82a55df662281e5d80e877",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and asked her mom, \"What is that?\" Her mom said, \"I'm sorry, Lily. It needs it to make it better!\" Lily was very happy.\nBut then, Lily's mom said, \"Lily, I need to fix the stone. It is very cold and you have to grow big and messy. You need to clean it with the stone and clean.\" Lily thought about it and promised to clean and clean it up.\nFrom that day on, Lily and her mom always went outside to play in the garden. They took turns sharing the stone and the key made her happy. And they always had a fun day, always if Lily would always help her mom when she could bring them back to her mom and dad.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and asked her mom, \"What is that?\" Her mom said, \"I'm sorry, Lily. It needs it to make it better!\" Lily was very happy.\nBut then, Lily's mom said, \"Lily, I need to fix the stone. It is very cold and you have to grow big and messy. You need to clean it with the stone and clean.\" Lily thought about it and promised to clean and clean it up.\nFrom that day on, Lily and her mom always went outside to play in the garden. They took turns sharing the stone and the key made her happy. And they always had a fun day, always if Lily would always help her mom when she could bring them back to her mom and dad."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He worked hard to open the box with the box. He gave it to a picture of all of his friends.\nThe big bird showed all the kids how to open the box. They were very happy, and they all enjoyed the colors. Tom was so happy to have more friends with his new friends, and they all lived happily ever after.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He worked hard to open the box with the box. He gave it to a picture of all of his friends.\nThe big bird showed all the kids how to open the box. They were very happy, and they all enjoyed the colors. Tom was so happy to have more friends with his new friends, and they all lived happily ever after."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " the ball stuck in the sky. The ball flew down and landed on a tree. The red ball was very tall and had a big splash. It wanted to play with it.\nLily's mom saw the red ball and said, \"Let's play!\" They played in the park all day and had a fun day. The red ball was a fun day at the park.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw the ball stuck in the sky. The ball flew down and landed on a tree. The red ball was very tall and had a big splash. It wanted to play with it.\nLily's mom saw the red ball and said, \"Let's play!\" They played in the park all day and had a fun day. The red ball was a fun day at the park."
+    }
+  ]
+}

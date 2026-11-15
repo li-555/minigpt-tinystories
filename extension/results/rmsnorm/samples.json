@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "991a094e094cb8471223bf018a53091a33af7bd043ac3a0ae80f397c152a5c23",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and did not know how to play with it.\nThe girl went to the garden and found some flowers and bugs in the garden. The girl felt happy and knew she had to play in the garden.\nThe girl decided to share the flower with the other animals. They played for a long time and found the flower. They all laughed and had a great time.\nAt the end of the day, the little girl gave the flower a big hug and a big smile on her face. She was so happy that she could play with the flower again. \nThe moral of the story is that it's important to always be careful when they need something special.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and did not know how to play with it.\nThe girl went to the garden and found some flowers and bugs in the garden. The girl felt happy and knew she had to play in the garden.\nThe girl decided to share the flower with the other animals. They played for a long time and found the flower. They all laughed and had a great time.\nAt the end of the day, the little girl gave the flower a big hug and a big smile on her face. She was so happy that she could play with the flower again. \nThe moral of the story is that it's important to always be careful when they need something special."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He reached the bag and put it on his head.\nTom ran to his friend, the bird, looking at the bag. It had a big stick. Tom was very happy. The bird said, \"Thank you, Tom!\" Tom felt happy that he could help his friend. They played together in the park all day.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He reached the bag and put it on his head.\nTom ran to his friend, the bird, looking at the bag. It had a big stick. Tom was very happy. The bird said, \"Thank you, Tom!\" Tom felt happy that he could help his friend. They played together in the park all day."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " the blue rock. It was an important game to play with.\nLily showed her her mom how to play outside and play with the blue ball. She would throw the blue ball with it with her. Now, Lily would play with the green ball and her new ball in the park.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw the blue rock. It was an important game to play with.\nLily showed her her mom how to play outside and play with the blue ball. She would throw the blue ball with it with her. Now, Lily would play with the green ball and her new ball in the park."
+    }
+  ]
+}

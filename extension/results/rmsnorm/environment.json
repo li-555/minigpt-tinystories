@@ -1,0 +1,14 @@
+{
+  "python": "3.13.9",
+  "torch": "2.10.0+cu126",
+  "cuda": "12.6",
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "source_sha256": {
+    "src\\__init__.py": "efba4d01b1e594d48f7d1a4213a7fe5041402eb4f648cfefb44e7fd88f78cb48",
+    "src\\evaluate.py": "197f8b41362a25606d52b0304e94ad1e2124997cfaa8e293cafdd18cca1dc450",
+    "src\\model.py": "df0a36baf293c068223e485af51145227e7b8cc0cd735b6506376c17073a9bb4",
+    "src\\sample.py": "7279492e9c6f85840ff137b239df969c0b731db4a8958fe50e4a452a3c3958ac",
+    "src\\train.py": "8c2b1d96fc503274b16192b6dd1a0954ba8ee13e664dfcecd9899d96bff104f1",
+    "src\\utils.py": "6e1a85a358b7028ee49dd14b9de26c329c343f4f1b4799462152f7a52fd6d42e"
+  }
+}

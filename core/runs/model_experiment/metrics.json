@@ -1,0 +1,19 @@
+{
+  "repository_version": "assignment2-v1.0.0",
+  "status": "complete",
+  "seed": 1337,
+  "step": 2500,
+  "max_steps": 2500,
+  "parameter_count": 10342656,
+  "train_tokens": 10240000,
+  "tokens_per_step": 4096,
+  "runtime_seconds": 530.3077338000003,
+  "train_seconds": 494.0267714001675,
+  "peak_gpu_memory_mb": 1017.48486328125,
+  "final_train_loss": 2.336489224433899,
+  "final_val_loss": 2.275730186700821,
+  "final_val_perplexity": 9.735024803610862,
+  "best_val_loss": 2.275730186700821,
+  "data_fingerprint": "08f2457ecb69fffaf4a7e17403e08208c7c10cb8a1dc279fb62f93ac7d35c94c",
+  "precision": "bfloat16"
+}
